@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-| <a href="https://github.com/sinsohi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinsohi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sinsohi's github stats" /></a> | <a href="https://github.com/sinsohi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinsohi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sinsohi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sinsohi&show_icons=true&include_all_commits=true&theme=radical" alt="sinsohi's github stats" /></a> | <a href="https://github.com/sinsohi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinsohi&layout=compact&theme=radical" /></a> |
 | ------------- | ------------- |
 <!--
 **sinsohi/sinsohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
