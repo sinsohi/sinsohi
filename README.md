@@ -1,7 +1,7 @@
-## 🍑 Sohi's Github
+# 🍑 Sohi's Github
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinsohi&show_icons=true&bg_color=ffffff&title_color=e67e22&text_color=565656&icon_color=e67e22&border_color=ffd8b1)
 
-<div align=left><h3>🛠️ STACKS</h3></div>
+## 🛠️ STACKS
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -25,9 +25,8 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <br>
-
   
-<div align=left><h3>📚 Contributions</h3></div>
+## 📚 Contributions
 
 - [utfrace 공식 문서 번역 Contributor](https://github.com/namhyung/uftrace)
 
