@@ -34,4 +34,4 @@
   
 ## 📚 Contributions
 
-- [utfrace 공식 문서 번역 Contributor](https://github.com/namhyung/uftrace)
+- [utfrace 공식 문서 번역 수정](https://github.com/namhyung/uftrace)
