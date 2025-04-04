@@ -7,7 +7,7 @@
 </p>
 -->
 
-## 🛠️ STACKS
+## 🛠️ Stack
 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -32,6 +32,6 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <br>
   
-## 📚 Contributions
+## 📚 Contribution
 
 - [utfrace 공식 문서 번역 수정](https://github.com/namhyung/uftrace)
