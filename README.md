@@ -1,5 +1,9 @@
 # 🍑 Sohi's Github
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinsohi&show_icons=true&bg_color=ffffff&title_color=e67e22&text_color=565656&icon_color=e67e22&border_color=ffd8b1)
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=sinsohi&theme=road_trip&hide=rank&pixelate_avatar=false">
+
+<!--
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinsohi&show_icons=true&bg_color=ffffff&title_color=e67e22&text_color=565656&icon_color=e67e22&border_color=ffd8b1) -->
 <!--
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sinsohi&show_icons=true&bg_color=ffffff&title_color=e67e22&text_color=565656&icon_color=e67e22&border_color=ffd8b1" width="48%" />
