@@ -35,6 +35,14 @@
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
   <br>
+</div>
+
+  ## 🚀 Activities
+
+  - [**SEPO-WBC**](https://www.sciencedirect.com/science/article/pii/S2352711026001482) - Automated white blood cell analysis software for veterinary hematology
+    <sub>SoftwareX (SCIE), 2026 · Co-first author</sub>
+  - **AI·Software Maestro 17th Cohort**
+
   
 ## 📚 Contribution
 
